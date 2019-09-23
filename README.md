@@ -1,4 +1,4 @@
-# guestbook
+# Гостевая книга
 
 Использовал ***htmlspecialchars()*** для защиты от XSS при выводе таблицы (output.php:49)<br>
 Использовал ***prepared statements*** для защиты от SQL-инъекций (index.php:46)<br>
